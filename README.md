@@ -1,3 +1,3 @@
 # atasumt
 
-<img align="left" alt="GIF" src="https://i.imgur.com/fmyr58y.gif?noredirect" width="300" height="520" />
+<img align="left" alt="GIF" src="https://i.imgur.com/fmyr58y.gif?noredirect" width="300" height="420" />
