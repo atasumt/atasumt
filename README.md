@@ -1,3 +1,3 @@
 # atasumt
 
-<img align="left" alt="GIF" src="https://c.tenor.com/H3pgj1Ng7Y4AAAAC/electro-ball-pikachu.gif" width="300" height="380" />
+<img align="left" alt="GIF" src="https://media1.giphy.com/media/eikZlmFkG3YWqL5h49/giphy.gif?cid=ecf05e476qzx937tw701ayy3176mu0kz697nfzi4v06j6va7&rid=giphy.gif&ct=g" width="300" height="380" />
